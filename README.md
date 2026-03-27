@@ -2,9 +2,9 @@
 
 ## Descrition / Beschreibung
 
- EN:Learn Excel For Data Anylysisg.
+ - EN:Learn Excel For Data Anylysisg.
     This repository documents my Learning  progress in Microsoft Excel, with a primary focus on data ana$
- DE:Lern Excel Für Datenanalyse.
+ - DE:Lern Excel Für Datenanalyse.
     Dieses Repository dokumentiert meine Learn Fortschritte in Microsoft Excel, mit einem Schwerpunkt au$.
 
 ## Skills and Tools / Fähigkeiten und Werkzeuge
@@ -66,7 +66,7 @@ DE: Unten finden Sie die Terminal-Befehle, die zum Initialisieren und Verwalten 
 
 To explore this repository locally, follow these steps:
    
-1. Clone the repository: git clone https://github.com/[YOUR_USERNAME]/Excel-Data-Mastery.git
+1. Clone the repository: git clone https://github.com/Mid-77/Excel-Data-Mastery.git
    
 2. Open the directory: cd Excel-Data-Mastery
 
