@@ -54,15 +54,18 @@
 
 - Enable Undo: `set undo` (configured in ~/.nanorc)
 
-```
 ## Setup Guide
 
-To explore this repository locally, follow these steps:
+- To explore this repository locally, follow these steps:
    
-1. Clone the repository: git clone https://github.com/Mid-77/Excel-Data-Mastery.git
-   
-2. Open the directory: cd Excel-Data-Mastery
-
+1. Clone the repository:
+```
+git clone https://github.com/Mid-77/Excel-Data-Mastery.git
+```   
+2. Open the directory:
+```
+cd Excel-Data-Mastery
+```
 3. Access files using Microsoft Excel 2025/2026
 
-```
+
