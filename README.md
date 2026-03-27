@@ -3,9 +3,9 @@
 ## Descrition / Beschreibung
 
  - EN:Learn Excel For Data Anylysisg.
-    This repository documents my Learning  progress in Microsoft Excel, with a primary focus on data ana$
+    This repository documents my Learning  progress in Microsoft Excel, with a primary focus on data analysis, statistical modeling, and professional workflows.
  - DE:Lern Excel Für Datenanalyse.
-    Dieses Repository dokumentiert meine Learn Fortschritte in Microsoft Excel, mit einem Schwerpunkt au$.
+    Dieses Repository dokumentiert meine Learn Fortschritte in Microsoft Excel, mit einem Schwerpunkt auf Datenanalyse, statistische Modellierung und professionelle Workflows.
 
 ## Skills and Tools / Fähigkeiten und Werkzeuge
 
@@ -17,13 +17,11 @@
 
 - Terminal Operations (macOS)
 
-
 ## Development Workflow / Arbeitsablauf
 
-EN: Below are the terminal commands used to initialize and manage this repository:
+- EN: Below are the terminal commands used to initialize and manage this repository:
 
-DE: Unten finden Sie die Terminal-Befehle, die zum Initialisieren und Verwalten dieses Repositorys verwe$
-
+- DE: Unten finden Sie die Terminal-Befehle, die zum Initialisieren und Verwalten dieses Repositorys verwendet wurden:
 
 ### Repository Initialization and Configration Setup
 
@@ -31,9 +29,7 @@ DE: Unten finden Sie die Terminal-Befehle, die zum Initialisieren und Verwalten 
 
 2. Initialize Git: git init 
 
-
 3. Create README file: echo "# Excel Data Mastery" >> README.md 
-
 
 4. Create .gitignore file: touch .gitignore
 
@@ -43,9 +39,7 @@ DE: Unten finden Sie die Terminal-Befehle, die zum Initialisieren und Verwalten 
 
    - echo "~$*" >> .gitignore
 
-
 6. Configure Remote: git remote add origin https://github.com/Mid-77/Excel-Data-Mastery.git
-
 
 ### Version Control Basics  
 - Check file status : git status
@@ -55,7 +49,6 @@ DE: Unten finden Sie die Terminal-Befehle, die zum Initialisieren und Verwalten 
 - Commit changes (To save the file): git commit -m "Your message"
 
 - Push to GitHub: git push -u origin main
-
 
 ### Editor Configuration (nano)
 
