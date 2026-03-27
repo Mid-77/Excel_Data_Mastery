@@ -25,31 +25,48 @@
 
 ### Repository Initialization and Configration Setup
 
-1. Create directory: mkdir Excel-Data-Mastery 
-
-2. Initialize Git: git init 
-
-3. Create README file: echo "# Excel Data Mastery" >> README.md 
-
-4. Create .gitignore file: touch .gitignore
-
+1. Create directory:
+```
+mkdir Excel-Data-Mastery
+```
+2. Initialize Git:
+```
+git init 
+```
+3. Create README file:
+```
+echo "# Excel Data Mastery" >> README.md
+``` 
+4. Create .gitignore file:
+```
+touch .gitignore
+```
 5. Configure .gitignore (macOS and Office):
-
-   - echo ".DS_Store" >> .gitignore
-
-   - echo "~$*" >> .gitignore
-
-6. Configure Remote: git remote add origin https://github.com/Mid-77/Excel-Data-Mastery.git
-
+```
+   echo ".DS_Store" >> .gitignore
+   echo "~$*" >> .gitignore
+```
+6. Configure Remote:
+```
+git remote add origin https://github.com/Mid-77/Excel-Data-Mastery.git
+```
 ### Version Control Basics  
-- Check file status : git status
-
-- Stage changes: git add .
-
-- Commit changes (To save the file): git commit -m "Your message"
-
-- Push to GitHub: git push -u origin main
-
+- Check file status :
+```
+git status
+```
+- Stage changes: 
+```
+git add .
+```
+- Commit changes (To save the file):
+  ```
+  git commit -m "Your message"
+  ```
+- Push to GitHub:
+```
+git push -u origin main
+```
 ### Editor Configuration (nano)
 
 - Enable Undo: `set undo` (configured in ~/.nanorc)
